@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-In order to run the file you need to make a flutter application and put in the yamil file and main.dart file
+In order to run the file you need to make a flutter application and put in the yaml file and main.dart file
