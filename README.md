@@ -1,10 +1,16 @@
-# archivist
+# namer_app
 
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-<a href="https://devpost.com/software/azure-rehab-rehabilitation-trainer-with-robotic-arm-and-ai">Azure Rehab</a><br>
-<a href="https://devpost.com/software/dot-puzzle">Dot Puzzle</a><br>
-<a href="https://devpost.com/software/slide-for-four">Slide For Four</a><br>
-<a href="https://devpost.com/software/sample-name-73grof">Sameple Name</a><br>
-<a href="https://devpost.com/software/spozzle">Spozzle</a><br>
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
