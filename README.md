@@ -1,4 +1,4 @@
-# namer_app
+# ARCHIVIST
 
 A new Flutter project.
 
